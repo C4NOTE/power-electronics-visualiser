@@ -1,16 +1,35 @@
-# React + Vite
+# ⚡ Power Electronics Visualizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive web app to visualize and simulate power electronics circuits like rectifiers and switching devices.
 
-Currently, two official plugins are available:
+## 🚀 Features (Planned)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Half-wave rectifier waveform visualization
+* Full-wave rectifier simulation
+* Interactive controls (frequency, amplitude)
+* Load behavior (R, RL)
+* Real-time waveform graphs
 
-## React Compiler
+## 🛠 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React (Vite)
+* JavaScript
+* Firebase (for future features)
 
-## Expanding the ESLint configuration
+## 🎯 Goal
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To build an intuitive tool for understanding power electronics concepts visually, useful for students and engineers.
+
+## 📌 Status
+
+🚧 In development — starting with waveform visualization
+
+## 📷 Future Improvements
+
+* Add circuit diagrams
+* Add switching simulations (MOSFET, SCR)
+* Export waveform data
+
+---
+
+Built as a learning + portfolio project.
