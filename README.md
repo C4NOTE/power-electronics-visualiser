@@ -24,7 +24,7 @@ To build an intuitive tool for understanding power electronics concepts visually
 
  In development — starting with waveform visualization
 
-##  Future Improvements
+## gi Future Improvements
 
 * Add circuit diagrams
 * Add switching simulations (MOSFET, SCR)

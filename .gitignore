@@ -24,3 +24,6 @@ dist-ssr
 *.sw?
 .env
 .env.local
+power-vis-backend/__pycache__/
+power-vis-backend/.venv/
+power-vis-backend/*.pyc
